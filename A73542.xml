@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to Master A.B. from the most godly and learned preacher I.B. in which is set forth the authoritie of parentes vpon their children, for gyuing of correction vnto them.</title>
+            <author>Bradford, John, 1510?-1555.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1584</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73542</idno>
+            <idno type="STC">STC 3495.7</idno>
+            <idno type="STC">ESTC S124645</idno>
+            <idno type="EEBO-CITATION">99898971</idno>
+            <idno type="PROQUEST">99898971</idno>
+            <idno type="VID">150802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to Master A.B. from the most godly and learned preacher I.B. in which is set forth the authoritie of parentes vpon their children, for gyuing of correction vnto them.</title>
+                  <author>Bradford, John, 1510?-1555.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>H. Jackson],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno Domini. 1548 [i.e. 1584?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.B. = John Bradford--STC.</note>
+                  <note>Actual imprint from STC.</note>
+                  <note>Running title reads: A letter touching correction of children.</note>
+                  <note>The woodcut strips on title page are the same as in STC 19875--STC.</note>
+                  <note>Signatures: A-B⁴ C² </note>
+                  <note>Reproduction of original in the Pembroke College Library, Cambridge University, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Discipline of children --  Early works to 1800.</term>
+               <term>Parent and child --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150802:1" rendition="simple:additions"/>
+            <p>A Letter ſent to Maſter <hi>A. B. from the moſt godly</hi> and learned Preacher I. B. In which is ſet forth the authoritie of Parentes vpon their children, for gy<g ref="char:EOLhyphen"/>uing of correction vnto them.</p>
+            <p>With an addition of a Sermon of Repentance annexed therevnto.</p>
+            <p>
+               <hi>Anno Domini.</hi> 1548.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:150802:2"/>
+            <pb facs="tcp:150802:2"/>
+            <head>To his louing Friend and <hi>Coſyn, Mayſter A. B.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Race and peace in our Lord and Sauiour Ieſus Chriſt, be wyth you and all yours. I am very much grieued, to heare of thoſe afflictions of mynde, which doe ſo greatly trouble and ap<g ref="char:EOLhyphen"/>paſſionate you, and my deare Coſin your wyfe, for the diſobedience of your ſonne towards you. And ſpecially for that you ſtande in ſome doubt wyth your ſelfe, in reſpect of his ryper yeres nowe, whether you ſhould giue him ſuch ſharpe correction, as wythout which, there is little hope of his good reformation: he being nowe entred into the age of twentie and aboue. Truely you muſt take this, to be a iuſt puniſhment ſent from God vnto you: in that you haue heretofore, ſo careleſ<g ref="char:EOLhyphen"/>lye let fall the reynes of his gouern<g ref="char:EOLhyphen"/>ment out of your own hands, and layd the ſame ſo looſely in the neck of your youthful ſonne, permitting him with<g ref="char:EOLhyphen"/>out chaſtiſment, to do what he would:
+<pb facs="tcp:150802:3"/> and to followe the lewde affections of his owne raſhe will and pleaſures. I did alwayes much feare and miſtruſt, that this your ouermuch ſuffraunce, woulde bréede and bring forth at the length his great hinderance, much diſ<g ref="char:EOLhyphen"/>comforte to your ſelfe, and heapes of ſorrow to al vs your faithful friends &amp; kinſfolkes. For who ſéeth not, that in all things it is moſte playne and euy<g ref="char:EOLhyphen"/>dent, both to men of iudgemente and learning, but chiefely to men of wiſe<g ref="char:EOLhyphen"/>dome and experience, that youth and yong things, alwayes haue bene, bée, and euer wilbe ſuch and the like, as in and by their education they are taught and framed. Yea, it is moſt commonly and in manner continually ſéene, that nature by the power and ſtrength of education, is oft tymes vtterly chaun<g ref="char:EOLhyphen"/>ged and altered to the contrarye, the hiſtory of <hi>Socrates</hi> doth approoue it: the memorye of <hi>Balenus</hi> doth throughlye confyrme it: and euen in oure owne tyme and age, it is ſo fully witneſſed, as it néedeth no great argument to ſet
+<pb facs="tcp:150802:3"/> forth the ſame. I me ſelfe haue ſéene a very mungrell Curre, traynde vp and made to the hurte Déere, ſo excellent, ſo perfite and ſo good, as that he was bought and ſoulde for xx. angels be<g ref="char:EOLhyphen"/>twene two brethren. This did educa<g ref="char:EOLhyphen"/>tion put into him agaynſt nature. A<g ref="char:EOLhyphen"/>gaine I haue ſéene a moſte fayre and bewtifull hounde, and euen of the beſt kynde, being bred and brought vp to ſléepe and lodge in a knights Cham<g ref="char:EOLhyphen"/>ber, and to wayte vppon him there: hath vtterly refuſed to hunte, or to fol<g ref="char:EOLhyphen"/>lowe the chaſe according to his kinde, yea, thoughe he was beaten vnto it from his mayſters héeles right ſharp<g ref="char:EOLhyphen"/>lye. It is beyonde all beliefe, what a wonderfull great force and power in all things hath education. So it is moſt certaine, that if there be due care and diligence had and vſed, that ver<g ref="char:EOLhyphen"/>tuous and good behauyour be taught and louingly cheriſhed: and lewd and looſe demeanor forbidden and ſharply puniſhed: the childe which is alwaies ſure, to taſt and receiue the great plea<g ref="char:EOLhyphen"/>ſure
+<pb facs="tcp:150802:4"/> of the fyrſt, and not to eſcape for no cauſe the bitter paynes of the ſe<g ref="char:EOLhyphen"/>conde, will alwayes no doubt gladly imbrace the one, and wyllingly flye the other. Wherfore I conclude, that if you had brought vp your ſonne with care and dilligence, to reioyce in the feare of God, to take pleaſure in méek<g ref="char:EOLhyphen"/>neſſe and humylity, to delight in obe<g ref="char:EOLhyphen"/>dience towards his Parents: and on the other ſide to be afrayde to do euill, to ſhun diſobedience, and to feare the ſmarte of correction: you ſhould then haue felte thoſe comfortes, which hap<g ref="char:EOLhyphen"/>pye Parentes receyue from their good and honeſt children: and neuer haue knowne thoſe ſorrowes, which nowe oppreſſe your harte, for the griefe of your vnruly ſonne. But will you know the roote and cauſe of all this? Alas euen your ſelf, and my ſiely Coſin your wyfe, caried on with a fonde loue and a fooliſh affection, which euermore fal<g ref="char:EOLhyphen"/>leth out to be the childes vtter deſtruc<g ref="char:EOLhyphen"/>tion: you both haue ſuffered him, to paſſe on pleaſauntly in his owne de<g ref="char:EOLhyphen"/>lights:
+<pb facs="tcp:150802:4"/> you haue permitted hym, to runne the courſe of his own will: you haue fooliſhly forborne, to ſpende the ſharpe rods of correction, vpon the na<g ref="char:EOLhyphen"/>ked fleſhe of hys loynes: you haue fondly pyttied, to ſpylle ſome bloud of his bodye, with the ſharpe ſtrypes of chaſtiſment: &amp; what haue ye wrought thereby? you haue preſerued his ſkyn from breaking, hys bloud from ſpyl<g ref="char:EOLhyphen"/>ling, and his loynes from ſmarting. A three halfpeny matter, yea though hys ſkin had bene broken in péeces, though his blood had run downe in ſtreames, and though his ſcourged loynes had ſmarted forty dayes after. For now by forberaunce of this which is nothing, you haue put your ſonne in hazarde of vtter confuſion: you haue heaped your owne diſcomforte and lamentation: yea, you haue endaungered your vtter déepe damnation. For be you moſt aſ<g ref="char:EOLhyphen"/>ſured, that before the Lorde you ſhall giue acount of ſuch careleſſe and neg<g ref="char:EOLhyphen"/>lygente bringing vp of your children, ſo muche to their owne deſtruction,
+<pb facs="tcp:150802:5"/> and when they periſhe for wante of that rodde of correction, which is com<g ref="char:EOLhyphen"/>mitted vnto you, and put into your hands, onely to the ende and intente, that you ſhould vſe it for their chaſtiſ<g ref="char:EOLhyphen"/>mente and good, aſſuredly their death and damnation will bee requyred at your handes, and you ſhall aunſwere as well for their bodyes, as for their ſoules, in that laſt day of iudgement, before the Tribunall ſeate of GOD. But I heare, that now you wéepe and wayle bitterly for that which is paſt: you fynde your owne follye now: you repent you of your extreme fondneſſe and fooliſhe pittie heretofore: and if your ſonne were in his tender yeares againe: you ſaye that then you would chaſtiſe him with all ſeuere ſcourges and caſtigation. Beholde howe one great follye doth acompany an other, and that greater then the firſt. Good Lorde, how wonderfully are you blyn<g ref="char:EOLhyphen"/>ded in that, which is more cléere than is the light of the noone daye. Your ſonne is now of twenty yeres old and
+<pb facs="tcp:150802:5"/> more: Is hée therfore frée from the rod of correction? Is hée therfore now not ſubiect to the ſtripes &amp; ſcourges of his father? Is he therefore not to be ſtrip<g ref="char:EOLhyphen"/>ped naked, &amp; to be beaten and whip<g ref="char:EOLhyphen"/>ped, vntill you haue broken euen all the ſkin of his bodye, ſpilt the blood of his loynes in abundaunce, and giuen him ſo many thouſande ſcourges, as that hée may neyther lye nor ſyt with<g ref="char:EOLhyphen"/>out payne in forty dayes after? Nay hée is nothing at all frée from theſe thinges. For all this is moſt fytte to be done, and he is to be haled home with violence, and whether he will or not to be taught to obey, by the ſmarte of his loynes, and to be traynde to his duety by the paynes of his ſcourges. For when gentle lenatiues will doe no good, to an olde ſore ouer long neg<g ref="char:EOLhyphen"/>lected: you knowe that Coroſiues are to be applyed, &amp; though alwayes they put the pacient to great paines, yet are they moſte ſure Salues, to heale and cure the wounde. Be not therfore abu<g ref="char:EOLhyphen"/>ſed, in beléeuing that your childe be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:150802:6"/> aboue twenty yeres of age, ought not therfore moſt ſharply for his faults to be ſcourged and puniſhed. In for<g ref="char:EOLhyphen"/>mer ages, the ſonnes and daughters haue bene ſubiect to the ſcourges of their Parentes, euen all their lyues long. And by the lawes of God, and of nations: it remayneth and ought to be ſo ſtyll. Doth not the lawe at this day, for diuers faults, iudge both the man and woman, euen naked to be moſt gréeuouſly whipped, and that with the ſcourges of whipcordes knot<g ref="char:EOLhyphen"/>ted, ſome with a thouſande ſtrypes, ſome with moe, and ſome with leſſe, according to the qualitie of their of<g ref="char:EOLhyphen"/>fence? And is not thinke you, the au<g ref="char:EOLhyphen"/>thoritie of the parents vpon the child, farre aboue and ſuperior, beyonde all the lawes poſitiue, that man may ſta<g ref="char:EOLhyphen"/>bliſhe and make? You ſhall heare, what God himſelfe hath ſette downe and enacted in his ſacred booke, which is aboue all earthly lawes and conſti<g ref="char:EOLhyphen"/>tutions. And therby ſhall you plainly perceiue in how great and ſtrayte ſub<g ref="char:EOLhyphen"/>iection,
+<pb facs="tcp:150802:6"/> it is the expreſſe will of God, that children doe ſtand and remain to<g ref="char:EOLhyphen"/>wards their parents. The text is thus. <hi>If anye man haue a ſonne that is ſtub<g ref="char:EOLhyphen"/>borne &amp; diſobedient,</hi>
+               <note place="margin">Deutr. 21.</note> 
+               <hi>which wil not har<g ref="char:EOLhyphen"/>ken vnto the voyce of his father, nor the voyce of his mother, and they haue chaſ<g ref="char:EOLhyphen"/>tened him, and he would not obey them: Then ſhal his father and his mother take him, &amp; bring him out vnto the Elders of his Citie, and vnto the gate of the place where he dwelleth: and ſhall ſaye vnto the Elders of his Citie: This our ſonne is ſtubborne and diſobedient, and he will not obey our admonition: Then all the men of the Citie ſhal ſtone him with ſtones vnto deth. So thou ſhalt take away euill from among you: that Iſrael may heare it &amp; feare.</hi> Here you ſée two things are to be noted. Firſt that there be no yeares excepted: but if hée be a ſonne, (that is to ſay a child of his parent, for vnder that word ſonne, both ſonne and daughter are equallye comprehended) he is faſte bound to the dutye of obedy<g ref="char:EOLhyphen"/>ence. Let him be of what yeares ſo e<g ref="char:EOLhyphen"/>uer
+<pb facs="tcp:150802:7"/> he may be, if he be at any time diſ<g ref="char:EOLhyphen"/>obedient to the voyce of his father, or of his mother, he is ſubiect to their chaſtiſmente. The ſecond note is, that this diſobedience of the childe to his Parente, is a thing ſo hatefull to al<g ref="char:EOLhyphen"/>mighty God, as that he hath pronoun<g ref="char:EOLhyphen"/>ced by his owne mouth, that ſuche a child ſhall dye the death therfore. Let not parentes then be doubtfull or ſcru<g ref="char:EOLhyphen"/>pulous, by the ſharpe chaſtiſmente of whipping and ſcourges to correct their children, to the vttermoſt: when by their power and authority ouer them, they may for their diſobedience deliuer them vnto death. For if death be com<g ref="char:EOLhyphen"/>maunded to the diſobedient childe by God himſelf, O ye fond and fooliſh pa<g ref="char:EOLhyphen"/>rents, wil ye make any ſcruple pity or compaſſion, to ſtrip him naked, to beate him, whippe him, and ſcourge him, yea not with a thouſand ſtrypes, but euen with manye thouſandes and that moſt bitterly and ſharply, when gentle ad<g ref="char:EOLhyphen"/>monitions and warninges giuen, will not preuayle? For you knowe what is
+<pb facs="tcp:150802:7"/> written in the booke of God:<note place="margin">Prouer. 13</note> 
+               <hi>He that ſpareth his rod, hateth his child, but he that loueth him, chaſtiſeth him betime.</hi> And in an other place.<note place="margin">Prouer. 19</note> 
+               <hi>Chaſtice thy ſon while there is hope: and let not thy ſoule ſpare for his murmuring.</hi> This texte doth very well forewarne thoſe fonde and fooliſhe parentes, that wilbe mo<g ref="char:EOLhyphen"/>ued, to pittie the cryes or lamentati<g ref="char:EOLhyphen"/>ons, of their corrected children, for this is as much as if he had ſaide: whether thy child murmour, or mutine againſt his correction, whether he reſiſt or ſet himſelf againſt thée: whether he make mone or lamentation vnto thée: yea, though he ſpeake neuer ſo fayre to in<g ref="char:EOLhyphen"/>treate thée: whether he wéepe or waile, cry or exclayme: Finally, whatſoeuer meane or mone he make vnto thée, to moue thée to that fond or fooliſhe pittie or compaſſion: let thine eares be ſtill deafe vnto him: and let not thy ſoule ſpare, luſtely to laye on the ſharpe ſtrypes of correction, euen with all the might and power that thou canſt giue them. For agayne he ſayth:<note place="margin">Prouer. 20</note> 
+               <hi>The blew<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:150802:8"/> of the wounde doth ſerue to purge the euill: and the ſtrypes within the bo<g ref="char:EOLhyphen"/>wels of the belly.</hi> Thys teacheth vs to whip and ſcourge, not onely tyll the blood runne downe, but euen tyll we haue left woundes in the fleſhe: and this doth plainly proue, that the ſcour<g ref="char:EOLhyphen"/>gings of diſobedient children, ought to be with knotted whipcordes, and not with roddes of byrche, which God knoweth vnto a ſhrewde boy, is but a ſimple chaſtiſment: and in a few daies after, is ſoone recouerd and forgotten. But thys text ſayeth, that the ſtrypes ſhould be ſuche and ſo ſeuere, as they ſhould paſſe and enter euen into the verye bowels of the bellye: that is to ſay, euen the very hart and ſoule of the diſobedient chylde, that lyes within the bowels, ſhould féele the ſharpneſſe of his correction, it ought and ſhoulde be ſo great vnto him. And why? marie to ſaue himſelfe from ſhame and con<g ref="char:EOLhyphen"/>fuſion, and his ſoule from damnation. And therefore in an other place it is ſayde:<note place="margin">Prouer. 23</note> 
+               <hi>Withholde not correction from
+<pb facs="tcp:150802:8"/> thy chylde: for if thou ſmyte him with the rodde, he ſhall not dye.</hi> Loe, here is a bleſſing promiſed to that chylde, whome the parents doe ſmite with the rodde of correction: and that euen the greateſt bleſſing of all bleſſinges: which is eternall ſaluation. And is it not alſo likewiſe emplyed thinke you by this text? that if this chylde be not ſmitten with the rodde of correction by his parents, that he is then in daun<g ref="char:EOLhyphen"/>ger of eternall damnation? Yée, no doubt it is. For in an other place, the ſame is playnely confyrmed to be ſo, where he ſayth thus: <hi>Thou ſhalt ſmyte him with the rodde,</hi>
+               <note place="margin">Prouer. 23</note> 
+               <hi>and ſhalt delyuer his ſoule from Hell.</hi> And after thys he ſay<g ref="char:EOLhyphen"/>eth: <hi>Correct thy ſonne,</hi>
+               <note place="margin">Prouer. 29</note> 
+               <hi>and he will giue thee reſt, and will giue pleaſures to thy ſoule.</hi> Loe howe he ſayth, that it ſhall be reſt and pleaſure to the ſoule of the parentes, to correct their childe. So as wée ought to take pleaſure in their ſharpe correction: bicauſe it is ſo much for their ſwéete good and behoofe: and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o greatly for their owne comfort. And
+<pb facs="tcp:150802:9"/> there is no doubt, but that if eyther we be negligent, and reck not: or mooued with fond pittie, and wil not giue that ſharpe and ſeuere puniſhment that we ought: aſſuredly the fall and confuſion of that chylde, ſhall be requyred at our handes in the daye of the Lorde: and our ſoule ſhall paye the price of his de<g ref="char:EOLhyphen"/>ſtruction. And therefore we ought, not onely to correct them, but alſo to in<g ref="char:EOLhyphen"/>ſtruct them, and teache them. For all their whole lyfe, rule, order, diſpoſiti<g ref="char:EOLhyphen"/>on, and gouernment, dependeth vppon vs. And therfore it is written in Eccle<g ref="char:EOLhyphen"/>ſiaſticus: <hi>If thou haue ſonnes, inſtruct them,</hi>
+               <note place="margin">Eccle. 7.</note> 
+               <hi>and holde their necke from their youth.</hi> The meaning is, kéepe their neck alwayes vnder the yoke of obedi<g ref="char:EOLhyphen"/>ence and chaſtiſment. And agayne it followeth:<note place="margin">Eccle. 30.</note> 
+               <hi>Giue him no libertie in hys youth, and winke not at his folly.</hi> And after agayne:<note place="margin">Eccle. 30.</note> 
+               <hi>Bowe downe his necke whyle he is yong, and beate him on the ſydes, leaſt he wax ſtubborne and be diſ<g ref="char:EOLhyphen"/>obedient to thee, and ſo bring ſorrow to thyne harte.</hi> And lykewiſe agayne:
+<pb facs="tcp:150802:9"/> 
+               <hi>He that loueth his ſonne,</hi>
+               <note place="margin">Eccle. 30.</note> 
+               <hi>cauſeth him oft to feele the rod: that he may ioy of him in the ende.</hi> And after this agayne:<note place="margin">Eccle. 30.</note> 
+               <hi>He that chaſtiſeth his ſonne, ſhall haue ioy in him, and ſhall reioyce of him among his acquaintance.</hi> And in like ſorte a<g ref="char:EOLhyphen"/>gayne:<note place="margin">Eccle. 30.</note> 
+               <hi>Chaſtiſe thy childe and bee dili<g ref="char:EOLhyphen"/>gent therein, leaſt his ſhame grieue thee.</hi> And after this agayne:<note place="margin">Prouer. 29</note> 
+               <hi>The rodde and correction giue wiſdome, but a chylde ſet at libertie maketh his mother aſhamed.</hi> And laſt of all it is written thus.<note place="margin">Eccle. 30.</note> 
+               <hi>He that flattereth his ſonne, byndeth vp his woundes, and his harte is grieued at eue<g ref="char:EOLhyphen"/>rye crye.</hi> Whereby he doth playnely teache vs: That good and diſcréete fa<g ref="char:EOLhyphen"/>thers and mothers, they ſhould not flat<g ref="char:EOLhyphen"/>ter nor mone their ſonnes and daugh<g ref="char:EOLhyphen"/>ters: for though their loynes be neuer ſo much ſcourged, and though their bo<g ref="char:EOLhyphen"/>dyes be neuer ſo bloodye beaten: yea, though their ſydes be full of woundes, yet ſayeth Eccleſiaſticus: <hi>Flatter hym not,</hi> bynde not vp his woundes, be not mooued with anye crye or compaſſion that he can make vnto thee: but let him
+<pb facs="tcp:150802:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:150802:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:150802:11"/> chylde: you ſhal alſo delyuer your own ſoule, from the heauie burthen of con<g ref="char:EOLhyphen"/>ſcience, by which you are bounde euen vpon payne of damnation, to ſée hys faultes &amp; offences moſt ſeuerely chaſ<g ref="char:EOLhyphen"/>tiſed and corrected. The Lorde powre vpon him his grace, and ſende him to lyue in the loue and feare of him: and then ſhall all things proſper with him, euen to your great com<g ref="char:EOLhyphen"/>forte and reioyſing, which GOD graunt. A<g ref="char:EOLhyphen"/>men.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150802:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
